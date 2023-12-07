@@ -7,16 +7,8 @@ public class ListController {
 	// master 334
 	//	master 2:00
 
-	// youn1223
-	// youn1223 2:03
-
-	// 3rd 2:41
 	
-	// 3rd
-	// 3rd 2:04 
-	// 3rd 2:41    
-	// youn1223 2:30
-	// master merge함 
-	// 3rd 2:41  
+	// youn1223 2:26 추가
+	// youn1223 4:09 추가
 	
 }
