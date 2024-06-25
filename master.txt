@@ -1,2 +1,3 @@
 master.txt
-i
+master에서 작성함
+
