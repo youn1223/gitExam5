@@ -1,4 +1,8 @@
 master.txt
+
 master에서 작성함
 master에서 한줄 더 추가함
+
+master에서 작성하고 kim에서 수정함
+kim에서 한줄 추가함
 
